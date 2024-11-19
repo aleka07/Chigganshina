@@ -5,7 +5,7 @@ func main() {
 
 	// TODO: init logger: slog
 
-	// TODO: init storage: sqllite
+	// TODO: init storage: mongo
 
 	// TODO: init router: chi, "chi render"
 
